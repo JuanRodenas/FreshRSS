@@ -22,7 +22,7 @@ FreshRSS is a self-hosted RSS feed aggregator
 
 ## Requirements
 
-* [Traefik up and running](../traefik).
+* [Traefik up and running](https://github.com/JuanRodenas/Docker-container-selfhosted/tree/main/traefik).
 * A subdomain of your choice, this example uses `freshrss`.
   * You should be able to create a subdomain with your DNS provider, use a `A record` with the same IP address as your root domain.
 
@@ -38,7 +38,7 @@ You should now be able to access the freshrss setup instruction, it is quite str
 
 # Update
 
-The image is automatically updated with [watchtower](../watchtower) thanks to the following label :
+The image is automatically updated with [watchtower](https://github.com/JuanRodenas/Docker-container-selfhosted/tree/main/watchtower) thanks to the following label :
 
 ```yaml
   # Watchtower Update
