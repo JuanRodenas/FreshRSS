@@ -10,7 +10,7 @@
 
 
 ## Versión latest docker freshrss
-![Docker Image Version (latest)](https://img.shields.io/docker/v/linuxserver/freshrss?arch=amd64&color=blue&logo=docker&logoColor=blue&style=for-the-badge)
+![Docker Image Version (latest)](https://img.shields.io/docker/v/linuxserver/freshrss/latest?arch=amd64&color=blue&logo=docker&logoColor=blue&style=for-the-badge)
 
 FreshRSS is a self-hosted RSS feed aggregator
 
